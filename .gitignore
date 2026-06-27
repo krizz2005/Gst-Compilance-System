@@ -1,0 +1,15 @@
+# Compiled class files
+*.class
+
+# Log file
+*.log
+
+# VS Code specific files
+.vscode/
+
+# Maven target folder (where the massive JAR files live)
+target/
+
+# OS generated files
+.DS_Store
+Thumbs.db
